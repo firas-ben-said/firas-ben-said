@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  
  🌱 I’m currently learning **Django, Docker , Kubernetes**
 
-💬 Ask me about **Kubernetes, Docker, Helm , Nextjs... or anything [here](https://github.com/firas-ben-said/firas-ben-said/issues)**
+💬 Ask me about **Docker, Nextjs... or anything [here](https://github.com/firas-ben-said/firas-ben-said/issues)**
 
 ⚡ Fun fact **Docker is the most popular "other tool" used by developers, with around 50% of developers utilizing it.**
 
